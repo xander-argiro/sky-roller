@@ -1,7 +1,9 @@
 # Changelog
-- Added a "slow down" hazard that slows the movement speed of the player
-- Added a "shove" hazard that moves the player to the side
-- Added a "game over" state with a restart and quit game button
+Added a "slow down" hazard that slows the movement speed of the player
+
+Added a "shove" hazard that moves the player to the side
+
+Added a "game over" state with a restart and quit game button
 
 Added endless procedural generation
 - There are currently only 4 chunks that can generate
